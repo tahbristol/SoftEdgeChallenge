@@ -1,0 +1,29 @@
+body {
+  color: black;
+}
+
+a.nav-link {
+  text-decoration: none;
+  color: black;
+}
+
+.inner a:hover{
+  color:white;
+}
+
+.main{
+  text-align: center;
+  margin-bottom: 0;
+}
+.main.main.jumbotron{
+  margin-bottom: 0;
+}
+
+.nav {
+  float:right;
+}
+
+footer {
+  background-color: #1E5E9A;
+  height: 60px;
+}
