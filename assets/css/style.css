@@ -7,20 +7,21 @@ a.nav-link {
   color: black;
 }
 
-.inner a:hover{
-  color:white;
+.inner a:hover {
+  color: white;
 }
 
-.main{
+.main {
   text-align: center;
   margin-bottom: 0;
 }
-.main.main.jumbotron{
+
+.main.main.jumbotron {
   margin-bottom: 0;
 }
 
 .nav {
-  float:right;
+  float: right;
 }
 
 footer {
