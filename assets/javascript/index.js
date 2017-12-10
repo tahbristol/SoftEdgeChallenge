@@ -1,5 +1,5 @@
 'use-strict'
-const API_KEY = "AIzaSyA-RCFtWaNUTzpL8HuPIeo12ZdrpL05xLk";
+const API_KEY;
 let url = `https://www.googleapis.com/civicinfo/v2/representatives?address=4027 vistaview street west mifflin pa&key=${API_KEY}`
 //  let url =  'https://jsonplaceholder.typicode.com/posts/1';
 var civicData;
